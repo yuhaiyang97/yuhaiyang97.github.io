@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: 于海洋
+description: '莫怪年少轻狂, 毕竟来日方长'
 url: 'http://yuhaiyang97.github.io'
 baseurl: './'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'yuhaiyang'
+  email: 643192963@qq.com
+  twitter_username: yuhaiyang
+  facebook_username: yuhaiyang
+  github_username:  yuhaiyang97
+  linkedin_username:  yuhaiyang
 
 defaults:
   -
